@@ -1,7 +1,7 @@
 # SpringBoot Elasticsearch example using JEST
 Example application using jest and elasticsearch inside Spring Boot
 
-Using JEST, this application shows how easy it is to connect up to and Elasticsearch instance.
+Using JEST, this application shows how easy it is to connect up to Elasticsearch clusters.
 
 ### Using Jest with an instance of ElasticSearch
 
@@ -27,4 +27,8 @@ autoconfigure:
       # - org.springframework.boot.autoconfigure.data.elasticsearch.ElasticsearchAutoConfiguration
 ```
 
-Note. This is not the recommended but can be done.
+Note. This is not recommended but can be done for development purposes.
+
+### Extra information about JEST
+
+For any specific information about JEST, go to the GitHub repo for the project here https://github.com/VanRoy/spring-data-jest
