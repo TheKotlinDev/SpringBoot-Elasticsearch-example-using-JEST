@@ -27,6 +27,7 @@ autoconfigure:
       # - org.springframework.boot.autoconfigure.data.elasticsearch.ElasticsearchAutoConfiguration
 ```
 
+An instance of elasticsearch will now run inside your application.
 Note. This is not recommended but can be done for development purposes.
 
 ### Extra information about JEST
